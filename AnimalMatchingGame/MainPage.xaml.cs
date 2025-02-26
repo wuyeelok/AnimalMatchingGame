@@ -9,7 +9,12 @@
             InitializeComponent();
         }
 
-        // Delete the method OnCounterClicked     
+        private void PlayAgainButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        // Delete the method OnCounterClicked
     }
 
 }
